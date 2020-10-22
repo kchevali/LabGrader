@@ -7,7 +7,7 @@ Getting Started
  2. Run source/_NewWeek.java
  3. Start Grading by running run.sh until all files are complete
 
-Note: You should do step 1 every grading session to make sure all the github files are up to date
+Note: You should do step 1 every grading session to make sure all the local files are up to date with github
 
 ===========================================================
 Submitting Grades
@@ -23,27 +23,25 @@ Submitting Grades
 
 
 ===========================================================
-Example
+Example of late.txt (after completing 2 weeks)
 ===========================================================
-    late.txt (after completing 2 weeks)
+    Late Log
+    Note: Dates below are NOT submission dates, but the date that they were graded.
 
-        Late Log
-        Note: Dates below are NOT submission dates, but the date that they were graded.
+    09/05/2020
+    Kevin Chevalier @ Lab: 1 (MathQuizzer)
+    Mary Smith @ Lab: 1 (MathQuizzer)
 
-        09/05/2020
-        Kevin Chevalier @ Lab: 1 (MathQuizzer)
-        Mary Smith @ Lab: 1 (MathQuizzer)
+    09/07/2020
+    Curt Powley @ Lab: 1 (MathQuizzer)
+    ----------------------------Emailed Lab 1
 
-        09/07/2020
-        Curt Powley @ Lab: 1 (MathQuizzer)
-        ----------------------------Emailed Lab 1
+    09/08/2020
+    Kevin Chevalier @ Lab: 1 (MathQuizzer) [REDO]
 
-        09/08/2020
-        Kevin Chevalier @ Lab: 1 (MathQuizzer) [REDO]
-
-        09/09/2020
-        Yi Zhu @ Lab: 1 (MathQuizzer)
-        ----------------------------Emailed Lab 2
+    09/09/2020
+    Yi Zhu @ Lab: 1 (MathQuizzer)
+    ----------------------------Emailed Lab 2
 
 ===========================================================
 Troubleshooting

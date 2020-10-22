@@ -1,2 +1,44 @@
-What do I do if the student's code does not compile?
+1) How do I grade?
+    Run run.sh and if there are files to be graded then it will state which lab is currently loaded and how many more students still need grading. It will ask if you want to run the next unmarked file. Type in 'yes' (or press enter). If you would like to load another lab then press Enter and enter the lab number. When ready, select the file you would like to run. Next, the students file will run normally. If everything seems fine then terminate it with (control+C or CTRL+D). Next, the test cases will start running and it will automatically input everything for you. Make sure terminal.txt is visible and it tell you if you need to enter anything and/or what to look out for. After the test cases, the students file will run normally again, in case something strange happened. Finally, the grader will run. It will specify the students name (or ask for it in some cases) and the critrea for the correctness critrea. Next input the grades for each critrea and if you enter a lower score then you can pick to add comment(s) (numbers separated by a space) or press enter to not add any comments. If you ever make a mistake, type in a non-number and the grader will reset. Next, you may need to press enter and then you can add any comments. At the end you have an option to submit or reset the grader.
 
+2)How to update the student's repos?
+    Run support/updateGit.sh
+
+3) What is terminal.txt?
+    This is a second window that you should have open when grading. When the students code is running the test cases then it will generally show what the expected output is. The title and description of the test case can be configured in labs/LAB_NAME/TEST_CASE_NAME.in
+
+4) What is Student.java?
+    This is the students code after some processing to make it possible to run. Everything above the class is chopped off, including packages and import statements. Any comments that would be chopped above the class are saved in terminal.txt. You should be looking over this file for every assignment to check for structure, comments, correctness ... etc.
+
+5) How do I run multiple files together?
+    When selecting the files, type the file numbers separated by a space
+
+6) How can I keep track of things they did well and not so well when running the different cases for their program?
+    You can take notes at the bottom of terminal.txt and it will show up later during grading
+
+7) How do I adjust a grade/comment after its submitted?
+    Go to semeseters/current/LAB_NAME.txt and manually change the grade there. Remember to update the total.
+
+8) How do I rerun a file afters its submitted?
+    Go to semesters/current/LAB_NAME.txt and delete the entry for the student entirely. Go to support/GradeFiles.txt and delete the file record.
+
+1) What do I do if the student's code does not compile?
+    First, check if it is the student's fault. A possible error is that the method of a standard class is not recognized. If the standard class name is found in /source then add the method into the source file with the code to call the original method and rerun it. (You can see examples in many of the standard error classes in /source)
+
+    If the error is minor enough, you can fix it and run everything again, but follow this prompt to prevent overwriting your changes:
+        
+        Run Next Unmarked File?
+        >>no
+        -Running Manual System-
+        Enter File Path:
+        >>                    <--------press Enter
+        Running previous files:
+            ...
+            ...
+    
+    If the error is major and you want to directly grade it without running it. Run source/Grader.java and read over the code and note what they did well and what they could have improved on.
+    
+    When grading, you may dock point(s) from the Crashing critrea.
+
+3) How is the next file determined to be graded?
+    First you need to have all the students repos cloned and updated in some directory. The system tracks files that have been previous completed in /semesters/current/GradeFiles.txt and it also tracks all the labs that each student has already completed in /semesters/current/LAB_NAME.txt. Based on this it knows which files it has not seen before and which lab it can be for.
