@@ -1,0 +1,9 @@
+REQUIREMENTS
+Use a method to validate the password (-0.5)
+Password is atleast 8 chars(-0.5)
+Password must have atleast two digits (-0.5)
+Password must have atleast one special symbols(!#$%&-_) (-0.5)
+Regex is optional (-1.0)
+
+EXTRA CREDIT
+2 additional password rules (+1.0)

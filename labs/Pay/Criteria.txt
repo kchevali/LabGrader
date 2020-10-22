@@ -1,0 +1,6 @@
+REQUIREMENTS
+Fields: id, hours, rate and wages
+Methods: getters, setters
+Demonstrate the class
+Input validation: hours >= 0 && pay rate > 10
+(UML required)

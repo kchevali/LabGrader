@@ -1,0 +1,10 @@
+REQUIREMENTS
+Display menu every loop (-0.5)
+Option to enter data (-0.5)
+Prompt to select number of data points (-0.5)
+Write to and read to file (-1.0)
+Option to display data (-0.5)
+Option to display total (-0.5)
+Loops until option to quit is picked (-0.5)
+
+EXTRA CREDIT

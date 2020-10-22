@@ -1,0 +1,6 @@
+Crashing:Program didn't compile!,Program didn't run!,Program crashes sometimes
+Structure:Some parts of your code need to be organized,Be careful with your indenting,Be sure to properly indent loops and methods
+Comments:Use // to write comments for your code,Use comments to describe the key parts of your program,Use /** to describe your all your methods,Use javadocs to describe your methods,Fill out your javadocs!
+Variable_Names:Use camelcase to name your variables,Your variables should be descriptive of what they are
+Redundacy:Remove unnecessary comments,Remove unused variables
+Extra_Credit:Great work with the extra credit,Excellent work with the extra credit,Very creative with the extra credit,Way to go with the extra credit,Good job using arrays,Good work with your methods

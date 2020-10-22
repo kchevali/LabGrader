@@ -1,0 +1,4 @@
+The program didn't use a method!
+Password check for length 8 didn't work
+Password check for 2 digits didn't work
+Password check for 1 special character didn't work

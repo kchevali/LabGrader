@@ -1,0 +1,10 @@
+REQUIREMENTS
+10x Loop(-0.5)
+Display # of correct and wrong(-0.5)
+Addition Test with random numbers(-1.0)
+Valid comparsion(-0.5)
+
+EXTRA CREDIT
+2 additional tests (+0.5)
+Another additional test (+0.5)
+Quiz timer (+0.5)

@@ -1,0 +1,14 @@
+title:MULTIPLICATION TEST
+description:simple multiplication test. 2 right, 1 wrong.
+type://mult_type
+r_num1a:0.5
+r_num1b:0.4
+ans1:20
+r_num2a:0.4
+r_num2b:0.3
+ans2:12
+r_num3a:0.9999
+r_num3b:0.9999
+ans3:0
+stop://safe_end
+early_stop://none

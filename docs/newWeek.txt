@@ -1,0 +1,56 @@
+Purpose: This is what you need to do each week
+
+===========================================================
+Getting Started
+===========================================================
+*1. Run support/updateGit.sh
+ 2. Run source/_NewWeek.java
+ 3. Start Grading by running run.sh until all files are complete
+
+Note: You should do step 1 every grading session to make sure all the github files are up to date
+
+===========================================================
+Submitting Grades
+===========================================================
+ 4. Add a tag to the bottom of /semesters/current/late.txt (ex: ---Emailed Lab #) - this step lets the professor know which grades need updates from this week
+ 5. Run source/_CreateSpreadSheet.java
+ 6. Email the professor the lab file of the week (ex: MathQuizzer.txt), AllGrades.csv, late.txt, and every lab file for each late assignment.
+
+
+
+
+
+
+
+===========================================================
+Example
+===========================================================
+    late.txt (after completing 2 weeks)
+
+        Late Log
+        Note: Dates below are NOT submission dates, but the date that they were graded.
+
+        09/05/2020
+        Kevin Chevalier @ Lab: 1 (MathQuizzer)
+        Mary Smith @ Lab: 1 (MathQuizzer)
+
+        09/07/2020
+        Curt Powley @ Lab: 1 (MathQuizzer)
+        ----------------------------Emailed Lab 1
+
+        09/08/2020
+        Kevin Chevalier @ Lab: 1 (MathQuizzer) [REDO]
+
+        09/09/2020
+        Yi Zhu @ Lab: 1 (MathQuizzer)
+        ----------------------------Emailed Lab 2
+
+===========================================================
+Troubleshooting
+===========================================================
+    In case of errors in step 2:
+        a. Update the following settings in settings.txt:[comma separated => no spaces]
+            -lab_name (The current lab name)
+            -all_labs (List of all the lab names) 
+            -lab_dates (List of all the lab deadlines)
+        b. Copy semesters/current/Template.txt and rename it to LAB_NAME.txt (ex:MathQuizzer.txt)

@@ -1,0 +1,16 @@
+//uml
+//pre_coin
+//a
+//post_coin
+//b
+//post_coin2
+//b
+//b
+//b
+//b
+//b
+//b
+//b
+//b
+//a
+//b

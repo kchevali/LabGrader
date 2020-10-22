@@ -1,0 +1,14 @@
+title:SUBTRACTION TEST
+description:subtraction test. 3 right. only positive answers.
+type://sub_type
+r_num1a:0.5
+r_num1b:0.3
+ans1:2
+r_num2a:0.9
+r_num2b:0.9
+ans2:0
+r_num3a:0.2
+r_num3b:0.6
+ans3:4
+stop://safe_end
+early_stop://none

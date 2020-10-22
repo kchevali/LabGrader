@@ -1,0 +1,7 @@
+You need to read from a file
+Use atleast 6 parts of speech
+You need a method for each part of speech
+Not enough words for each part of speech
+Selecting the words for '_' should be random
+The '_' should be replaced with words
+Arrays weren't used

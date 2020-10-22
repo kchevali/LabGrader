@@ -1,0 +1,8 @@
+REQUIREMENTS
+Display menu with a method
+Each conversion has a method
+Displays the correct converted numbers
+More strict grading on redundant code (should use methods)
+Require java docs as comments
+Doesn't quit until user selects it
+User validation for any string

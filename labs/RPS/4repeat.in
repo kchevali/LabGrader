@@ -1,0 +1,8 @@
+title: REPEAT
+description:Repeats two times. Rock & scissors tie
+player1://move1
+r_player1:0.7
+end://run_again
+r_player2:0.5
+end2://stop
+fast_end://none

@@ -1,0 +1,6 @@
+Didn't create a second class!
+Didn't use the temperature class variable
+Didn't include the constructor, setters, getters
+Some of the methods are missing
+The demonstration didn't work!
+There's no demonstration!

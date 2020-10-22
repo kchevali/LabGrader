@@ -1,0 +1,7 @@
+title: Move II & III
+description: Should use a new move and ask to repeat for another move. Then ask to terminate.
+r_player1:0.5
+r_player2:0.99
+fast_end://none
+end://run_again
+end2://stop

@@ -1,0 +1,9 @@
+REQUIREMENTS
+Create class for DaysOfMonth (-1.0)
+2 int fields (month, year) (-0.5)
+Constructor with 2 parameters (-0.5)
+Getters and setters (-0.5)
+numberOfDays() method (-0.5)
+Input Validation (-0.5)
+Using unneeded parameters for instance methods(-0.5)
+Include demo (-0.5)

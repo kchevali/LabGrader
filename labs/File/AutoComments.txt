@@ -1,0 +1,7 @@
+The menu wasn't displayed every loop
+The program didn't enter data correctly
+The user should pick how many weeks to add
+The program didn't read/write correctly
+The program didn't print the data correctly
+The program didn't total the data correctly
+The program should loop until they exit

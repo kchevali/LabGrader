@@ -1,0 +1,11 @@
+REQUIREMENTS
+YodaSpeak Rules (-1.0)
+    1. Length 1:  No change
+    2. Length 2:  Switch words
+    3. Length 3:  Move last word to beginning
+    4. Length 4:  Move last two words to beginning
+Other cases with length 5+: Translation Error
+Program should loop until 'yoda' is inputted(-0.5)
+Use 3 methods (-0.5/method)
+Use arrays
+Output should have spaces between the words

@@ -1,0 +1,4 @@
+title:INPUT VALIDATION STRING TEST
+description:input validation test for an invalid string
+type:bad_input
+early_stop://safe_end

@@ -1,0 +1,7 @@
+5 methods weren't used!
+No prompt on how to play
+The user should be able to pick from rock, paper and scissors
+The user's input is not checked
+Your winning/losing logic needs improvement
+The user should be asked to play again
+Each round, the computer should play differently

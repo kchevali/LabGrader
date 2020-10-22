@@ -1,0 +1,14 @@
+title:FULL TEST
+description:Check if accepts doubles. Should input & read 0.5, 0.25 -> 0.75. Input & read 100, 20, 5 -> 125. Quit.
+menu1:1
+early_quit://none
+count:2
+item1:0.5
+item2:0.25
+early_quit2://none
+menu2:2
+menu3:3
+count2:3
+item3:100
+item4:20
+item5:5

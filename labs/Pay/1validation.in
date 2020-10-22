@@ -1,0 +1,7 @@
+title:Validation Test
+description:3 errors for the pay rate and 3 errors for the hours
+rate:10
+rate2:-1
+a:10
+a2:-1
+quick_end://safe_end

@@ -1,0 +1,6 @@
+REQUIREMENTS
+Must use arrays or arraylist
+Must search for element in a file
+Must ask for user input
+Must ask to search again
+Use multiple methods

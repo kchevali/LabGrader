@@ -1,0 +1,6 @@
+title:VALIDATION TEST
+description:Bad input followed by correct.
+comp_input://c1
+bad_user:bad_input
+good_user://u1
+fast_end://safe_end

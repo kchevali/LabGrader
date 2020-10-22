@@ -1,0 +1,5 @@
+title:Simple Case
+description:Enter '//key' or '//message'. Expected output is - bcd BCD
+menu://caesar
+message:abc ABC
+key:1

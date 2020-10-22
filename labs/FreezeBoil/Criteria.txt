@@ -1,0 +1,6 @@
+REQUIREMENTS
+    Create class with temperature variable
+    Constructor, setters, getters
+    Have 6 additional methods
+    Demonstrate the class by asking the user for a temperature and listing what boils/freezes
+

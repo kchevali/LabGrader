@@ -1,0 +1,6 @@
+You are missing one the required classes!
+One of the fields are missing
+You need setters and getters for all the fields
+You are missing the toString()
+You are missing one of the constructors
+You need to include inheritance between your two classes

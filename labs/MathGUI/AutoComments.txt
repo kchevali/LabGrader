@@ -1,0 +1,9 @@
+You are missing the addition button
+You are missing the subtraction button
+You are missing the multipication button
+You are missing the division button
+You are missing the clear button
+You are missing the exit button
+Some of your calculations didn't work correctly
+Your clear button didn't work correctly
+Your exit button didn't work correctly

@@ -1,0 +1,8 @@
+REQUIREMENTS
+Prompt and use message and key (-1.0)
+Shift uppercase and lowercase letters correctly (-0.5)
+Does not shift nonletters (-0.5)
+Wrap around Z -> A (-0.5)
+
+EXTRA CREDIT
+Vigenere Cipher (+1.0)

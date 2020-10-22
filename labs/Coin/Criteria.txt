@@ -1,0 +1,14 @@
+REQUIREMENTS
+Create a class for the Coin
+String field contains heads or tails
+No arg constructor that picks a side randomly
+Void Method that tosses the coin
+String Method that returns the side of the coin
+
+DEMONSTRATION
+Display initial side up
+Toss coin 10 times
+Count the number of heads
+Display side up per loop
+
+EXTRA CREDIT

@@ -1,0 +1,6 @@
+title: VALIDATION
+description:Validating user with large integer
+player1:10000
+r_player1:0.1
+r_player2:0.9
+fast_end://safe_end

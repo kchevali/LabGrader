@@ -1,0 +1,9 @@
+REQUIREMENTS
+Creates a MotorCycle Class (-1.0)
+Fields: year, make, speed(-0.5)
+Methods: Constructor(), getters(), setters(), accelerate(), brake()(-0.5)
+Validate motorcycle year (-0.5)
+Accerelate 4x, brake 3x (print after each operation) (-0.5)
+
+EXTRA CREDIT
+Additional creative methodss

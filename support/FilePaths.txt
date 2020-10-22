@@ -1,0 +1,5 @@
+support/
+labs/
+semesters/current/
+temp_zip_files/
+src/

@@ -1,0 +1,5 @@
+There was no prompt
+Your program should use a message and key
+Didn't shift uppercase and lowercase letters correctly
+Nonletters shouldn't be shifted
+The cipher should wrap around Z -> A

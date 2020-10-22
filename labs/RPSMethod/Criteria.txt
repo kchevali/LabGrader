@@ -1,0 +1,12 @@
+REQUIREMENTS
+Use atleast 5 methods (+3.0)
+Prompt explains what to input (+0.5)
+Pick from rock paper and scissors (+0.5)
+User validation (+0.5)
+Can decide between win, lose, and tie (+0.5)
+Ask to run again (+0.5)
+A new hand each time (+0.5)
+
+EXTRA CREDIT
+Add on Lizard Spock
+Use Arrays

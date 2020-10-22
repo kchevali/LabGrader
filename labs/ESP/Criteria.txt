@@ -1,0 +1,7 @@
+REQUIREMENTS
+Randomly selects an element (-0.5)
+Loop 10 times (-0.5)
+Displays the number of correct answers (-0.5)
+Uses 3 methods(-0.5)
+Verifys input is a valid fish(-0.5)
+Input can be any case(-0.5)

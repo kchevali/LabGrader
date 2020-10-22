@@ -1,0 +1,14 @@
+title:ADD TEST
+description:simple addition test. 2 right and 1 wrong.
+type://add_type
+r_num1a:0.5
+r_num1b:0.3
+ans1:8
+r_num2a:0.3
+r_num2b:0.4
+ans2:7
+r_num3a:0.1
+r_num3b:0.0
+ans3:10
+stop://safe_end
+early_stop://none

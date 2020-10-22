@@ -1,0 +1,5 @@
+The program doesn't loop 10 times
+The number of correct questions wasn't displayed
+Random numbers weren't used
+The numbers weren't calculated correctly
+No input validation

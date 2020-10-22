@@ -1,0 +1,7 @@
+title: Move II
+description:Should use move II
+player1://move2
+r_player1:0.35
+r_player2:0.6
+end://safe_end
+fast_end://none

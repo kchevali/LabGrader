@@ -1,0 +1,5 @@
+You didn't use arrays or arraylist!
+You must search for elements in a file
+You didn't ask to search again
+You didn't write multiple methods
+You didn't ask the user for their candies!

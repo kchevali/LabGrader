@@ -1,0 +1,4 @@
+REQUIREMENTS
+Must include the 6 methods
+The calculations must be accurate
+Must name the months with the most and least snow

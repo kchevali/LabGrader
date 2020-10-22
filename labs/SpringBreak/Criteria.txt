@@ -1,0 +1,8 @@
+REQUIREMENTS
+Asks for 4 places (-0.5)
+Saves it in a file(-1.0)
+Retrieves from file (-1.0)
+Uses two methods(-1.0)
+
+EXTRA CREDIT
+Used arrays(+0.5)

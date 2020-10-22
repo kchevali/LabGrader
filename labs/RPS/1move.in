@@ -1,0 +1,7 @@
+title: Move I
+description:Should use move I
+player1://move1
+r_player1:0
+r_player2:0.25
+end://safe_end
+fast_end://none

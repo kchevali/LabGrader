@@ -1,0 +1,6 @@
+Your YodaSpeak didn't match the rules
+Your program didn't keep running until yoda was inputted
+No error message for message longer then 5 words
+Didn't use arrays
+Didn't use 3 methods
+No spaces!

@@ -1,0 +1,2 @@
+//input
+//safe_end

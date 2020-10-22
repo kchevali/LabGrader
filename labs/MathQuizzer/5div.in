@@ -1,0 +1,14 @@
+title:DIVISION TEST
+description:division test. should change question that is not a decimal.
+type://div_type
+r_num1a:0.4
+r_num1b:0.2
+ans1:2
+r_num2a:0.4
+r_num2b:0.3
+ans2:2
+r_num3a:0.7
+r_num3b:0.9
+ans3:8
+stop://safe_end
+early_stop://none

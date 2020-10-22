@@ -1,0 +1,7 @@
+title: Extra Credit - Move III
+description:Extra Credit should be spock/lizard
+player1://move3
+r_player1:0.999
+r_player2:0.8
+end://safe_end
+fast_end://none

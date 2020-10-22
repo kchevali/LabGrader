@@ -1,0 +1,5 @@
+REQUIREMENTS
+Must have + - x /
+Must have a clear button
+Must have an exit button
+The calculations must be accurate

@@ -1,0 +1,8 @@
+Missing class for DaysOfMonth
+There should be 2 int fields
+The constructor should have 2 parameters
+Missing some getters and setters
+Need to work on the numberOfDays() method
+Missing input validation
+Your instance methods should use your instance variables instead of parameters.
+No demo!

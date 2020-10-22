@@ -1,0 +1,9 @@
+REQUIREMENTS
+Individual class
+    Fields: name, email and telephone fields
+Shopper subclass
+    Fields: customer number and isInMailingList fields
+The Shopper class should inherit from the Individual class
+Two objects should be demonstrated
+The getters, setters and toString()
+Create constructors for each

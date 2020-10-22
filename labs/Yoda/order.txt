@@ -1,0 +1,11 @@
+//first
+//checkpoint
+//second
+//third
+//fourth
+//stop
+ERROR
+ERROR
+ERROR
+ERROR
+//crash

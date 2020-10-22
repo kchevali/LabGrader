@@ -1,0 +1,8 @@
+title:Stop at Yoda
+description:Loop 4 times until input yoda
+first:DONT
+checkpoint://none
+second:STOP
+third:YET
+fourth:PLEASE
+stop:yoda

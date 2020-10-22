@@ -1,0 +1,54 @@
+Purpose: What to do when it is a new semester.
+
+STEPS
+1. Go to /semesters and delete/rename the previous current folder
+2. Copy /semesters/template and rename it to current
+3. Reset /settings.txt: (Fill in the text in CAPS and remove the example)
+
+    Template:
+        lab_name:INSERT_LAB1_HERE(ex:MathQuizzer)
+        repo_base:INSERT_BASE_REPO_NAME(ex:csci2916-spring2020-)
+        all_labs:INSERT_LAB1_HERE(ex:MathQuizzer)
+        lab_dates:INSET_DUE_DATE_HERE(ex:01/01/2020)
+        grace_period:0
+
+        debug:false
+        java_docs:false
+        manual:false
+        ignore_nonjava:false
+
+        file_paths:../support/FilePaths.txt
+        repo_path:INSERT_REPO_PATH(ex:/Users/kevin/Documents/Repos/CSCILab/)
+        zip_path:../temp_zip_files
+        manual_path:none
+
+    Example:
+        lab_name:Pay
+        repo_base:csci2916-spring2020-
+        all_labs:MathQuizzer,RPS,Cipher,File,RPSMethod,FreezeBoil,Pay,Motorcycle
+        lab_dates:09/02/2020,09/06/2020,09/13/2020,09/20/2020,09/27/2020,10/05/2020,10/11/2020,10/18/2020
+        grace_period:0
+
+        debug:false
+        java_docs:true
+        manual:false
+        ignore_nonjava:false
+
+        file_paths:../support/FilePaths.txt
+        repo_path:/Users/kevin/Documents/Repos/CSCILab/
+        zip_path:../temp_zip_files
+        manual_path:none
+
+4.Fill in semesters/current/names.txt (first_name last_name:repo_name_ending)
+
+    Example:
+    Travis Faletagaloa:travis-faletagaloa-2
+    Waythian Landrum:landrum-waythian
+    Zamira Broadhurst-Hall:zamirabh-1
+
+    INCORRECT:
+    Travis Faletagaloa:csci2916-spring2020-travis-faletagaloa-2
+    Waythian Landrum:csci2916-spring2020-landrum-waythian
+    Zamira Broadhurst-Hall:csci2916-spring2020-zamirabh-1
+
+5. You are all set! Everything else should be setup automatically for you. At the end of each week follow: /docs/newWeek.txt

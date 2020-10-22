@@ -1,0 +1,5 @@
+REQUIREMENTS
+Use JavaFX or other GUI framework
+Three functional buttons
+Textfields all need labels
+Correct calculation (# shirts * $10.00 * 1.04167)

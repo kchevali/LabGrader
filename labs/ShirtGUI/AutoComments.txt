@@ -1,0 +1,6 @@
+Your calculation was incorrect
+One of your buttons did not work properly
+You are missing a required buttons
+You did not use a GUI framework
+You are missing a textfield
+All of your textfields need clear labels

@@ -1,0 +1,5 @@
+REQUIREMENTS
+Create Database(-1.0)
+Database should have three columns(PK, City, Population)(-0.5/column)
+Generate atleast 20 rows of data(-0.5)
+Query for sorting(3), max, min, avg and total populations(-0.5/query)

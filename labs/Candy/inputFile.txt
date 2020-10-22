@@ -1,0 +1,7 @@
+cat
+dog
+bat
+mat
+log
+match
+mol

@@ -1,0 +1,8 @@
+REQUIREMENTS
+Create a Slot Machine in JavaFX
+User should have a button to trigger game
+Machine should display 3 images
+Machine should randomize images
+User should be able to bet
+Display amount won and total won
+Follow win rules

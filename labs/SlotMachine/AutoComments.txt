@@ -1,0 +1,7 @@
+The Slot Machine is not in JavaFX
+There's no button to trigger game
+The program doesn't have 3 images
+The images aren't randomized
+The user can't place bets
+The amount won and total won should be shown
+The game rules don't work

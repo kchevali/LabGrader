@@ -1,0 +1,16 @@
+title:FULL TEST
+description:First 6 right, next 4 wrong. Diff input for 10th,11th.
+comp_input://none
+bad_user://none
+good_user://none
+fast_end://none
+c1:0
+c2:1
+c3:2
+c4:3
+c5:4
+u1:ahi
+u2:oPAh
+u3:mahiMAHI
+u4:ONAGA
+u5:oNo

@@ -1,0 +1,9 @@
+//not_rand
+//extra_text
+//player1
+//fast_end
+//r_player1
+//end
+//player1
+//r_player2
+//end2

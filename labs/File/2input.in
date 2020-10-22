@@ -1,0 +1,8 @@
+title:INPUT INTEGER
+description:Input two integers safely - 10 & 5.
+menu1:1
+early_quit://none
+count:2
+item1:10
+item2:5
+early_quit2://safe_end

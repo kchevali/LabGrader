@@ -1,0 +1,5 @@
+//safe_end: End program without crash
+//crash: End program with crash
+//auto: Input is being generated automatically
+//none: get nextLine() - used with //extra_text to skip
+//not_rand: Random class + Math.random() will no longer use scanner for input

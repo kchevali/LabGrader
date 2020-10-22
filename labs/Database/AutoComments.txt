@@ -1,0 +1,6 @@
+Database was not created
+Database is missing columns
+Data wasn't generated for the database
+Some of the queries are missing
+Some of the queries did not work!
+Program crashed, ResultSets cannot be generated consectively

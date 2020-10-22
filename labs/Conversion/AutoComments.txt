@@ -1,0 +1,5 @@
+Didn't display menu with a method
+Each conversion should have a method
+The conversions were accurate!
+The program shouldn't quit until the user picks it
+The user validation didn't work!

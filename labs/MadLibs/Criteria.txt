@@ -1,0 +1,7 @@
+REQUIREMENTS
+Read from a file to obtain text (-0.5)
+Use atleast 6 parts of speech (methods)(-0.5)
+Each part of speech has atleast 6 words (-0.5)
+Randomly selects a word for each part of speech (-1.0)
+Replace the tokens with _ to print a story (-1.0)
+Use arrays (-0.5)

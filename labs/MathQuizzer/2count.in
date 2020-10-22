@@ -1,0 +1,14 @@
+title:COUNT TEST
+description:run 10 times? 9 correct and 1 wrong questions shown @ bottom. Q10 & Q11 are diff.
+type://add_type
+r_num1a:0.2
+r_num1b:0.2
+ans1:4
+r_num2a:0.5
+r_num2b:0.5
+ans2:10
+r_num3a:0
+r_num3b:0
+ans3:1
+stop://none
+early_stop://none

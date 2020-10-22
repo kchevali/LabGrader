@@ -1,0 +1,6 @@
+//count
+hawaii
+paris
+berlin
+canada
+this is a extra place
