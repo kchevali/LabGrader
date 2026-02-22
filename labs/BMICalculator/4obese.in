@@ -1,0 +1,11 @@
+title:OBESE TEST
+description:Output obese. BMI - 30.1166863905
+name:Albert
+weight_lb:181
+weight_kg:82.1002
+height_ft:5
+height_in:5
+height_m:1.651
+height_cm:165.1
+none://none
+early_stop://safe_end

@@ -325,7 +325,7 @@ public class Grader {//
         for (File file : filesInProgress) {
             b.append(file.getUniqueName(Settings.repoBase)).append("\n");
         }
-        write(b.toString(), File.findAbsolute("Gradedfiles.txt"));
+        write(b.toString(), File.findAbsolute("GradedFiles.txt"));
     }
 
     public static void write(String message, String location) {

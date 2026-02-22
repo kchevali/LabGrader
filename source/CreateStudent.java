@@ -534,7 +534,7 @@ class RepoFiles {
                 completedPaths.add(path);
             }
         }
-        Grader.write(completedFiles.toString(), File.findAbsolute("Gradedfiles.txt"));
+        Grader.write(completedFiles.toString(), File.findAbsolute("GradedFiles.txt"));
         File.loadGradedAssignments();
         System.out.println("Set " + files.size() + " file(s) as complete!");
     }
