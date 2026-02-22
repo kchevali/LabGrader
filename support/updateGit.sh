@@ -1,3 +1,3 @@
-cd /Users/kevin/Documents/Repos/CSCILab/
-find . -type d -depth 1 -exec git --git-dir={}/.git --work-tree=$PWD/{} pull origin master \;
+cd ~/git/LabGrader/
+find . -type d -name .git -prune -exec sh -c 'cd "$(dirname "$1")" && git pull' _ {} \;
 echo "DONE!"

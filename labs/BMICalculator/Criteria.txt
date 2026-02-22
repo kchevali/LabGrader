@@ -1,0 +1,8 @@
+REQUIREMENTS
+Ask for user's name, weight, and height (-0.5)
+Calculate BMI (-1.0)
+Output user's name, BMI, and BMI Category (-0.5)
+Loop program 5 times (-0.5)
+
+EXTRA CREDIT
+Calculate BMI using metric units (+1.0)

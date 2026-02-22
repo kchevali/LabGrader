@@ -7,7 +7,6 @@ JC = javac
 CLASSES = \
     _CreateSpreadSheet.java \
 	_NewWeek.java \
-	_NewSemester.java \
 	BufferedReader.java \
 	BufferedWriter.java \
 	ClassAnalysis.java \

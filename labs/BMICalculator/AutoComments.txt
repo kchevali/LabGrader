@@ -1,0 +1,5 @@
+The BMI was not calculated correctly
+Did not properly output the user's name, BMI, and BMI category
+Did not ask for user's input (name, weight, height)
+The program doesn't loop 5 times
+Logic for category output was incorrect
